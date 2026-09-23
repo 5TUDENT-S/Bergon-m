@@ -1,0 +1,2141 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Страница не найдена</title>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8 " /> 
+    <meta name="description" content="РПО Албес. Производство подвесных потолков, вентилируемых фасадов, профилей для гипсокартона, акустические материалы, дизайнерские потолки" />
+ 
+    <meta name="keywords" content="Подвесные потолки, вентилируемые фасады, профили для гипсокартона" />
+ 
+    <link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?175489646023463" type="text/css" rel="stylesheet"/>
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?16930006332320" type="text/css" rel="stylesheet"/>
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?178401280122500" type="text/css" rel="stylesheet"/>
+<link href="/bitrix/cache/css/s1/furniture_dark-blue/page_5ca72769e0c04814367869f9851377dc/page_5ca72769e0c04814367869f9851377dc_v1.css?178472077533767" type="text/css" rel="stylesheet"/>
+<link href="/bitrix/cache/css/s1/furniture_dark-blue/template_80680a25860af3d2c99d6c345aae9670/template_80680a25860af3d2c99d6c345aae9670_v1.css?1784720771479795" type="text/css" rel="stylesheet" data-template-style="true"/>
+ 
+    <script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"pull_server_enabled":"Y","pull_config_timestamp":1754896622,"shared_worker_allowed":"Y","pull_guest_mode":"N","pull_guest_user_id":0,"pull_worker_mtime":1754896381});(window.BX||top.BX).message({"PULL_OLD_REVISION":"Для продолжения корректной работы с сайтом необходимо перезагрузить страницу."});</script>
+<script>(window.BX||top.BX).message({"MAIN_BASELINE_BROWSER_OUTDATED":"Вы используете устаревшую версию браузера. Обновите его для безопасной и стабильной работы","MAIN_BASELINE_DETAILS":"Подробнее","MAIN_BASELINE_CLOSE":"Закрыть"});</script>
+
+<script type="extension/settings" data-extension="main.baseline">{"collectData":false,"helpUrl":"https:\/\/helpdesk.bitrix24.ru\/open\/code_27229654\/","helpCode":"redirect=detail\u0026code=27229654"}</script>
+<script src="/bitrix/js/main/baseline/dist/baseline.bundle.min.js?17840127944439"></script>
+
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+
+<script src="/bitrix/js/main/core/core.min.js?1784012801181429"></script>
+
+<script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script type="extension/settings" data-extension="ui.a11y">{"restoreLostFocus":false,"useFocusTrapInDialogs":false}</script>
+<script>BX.Runtime.registerExtension({"name":"ui.a11y","namespace":"BX.UI.Accessibility","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.design-tokens","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.fonts.opensans","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.popup","namespace":"BX.Main","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"popup","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1785865687,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"9f4e24a77860aa9befbb691ee82d0e54"});</script>
+
+
+<script src="/bitrix/js/pull/protobuf/protobuf.js?1657174307274055"></script>
+<script src="/bitrix/js/pull/protobuf/model.min.js?165717430714190"></script>
+<script src="/bitrix/js/main/core/core_promise.js?17691519855221"></script>
+<script src="/bitrix/js/rest/client/rest.client.min.js?16571745779240"></script>
+<script src="/bitrix/js/pull/client/pull.client.min.js?175489638349849"></script>
+<script src="/bitrix/js/ui/a11y/dist/a11y.bundle.min.js?178401279631192"></script>
+<script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?178401280171647"></script>
+<script>BX.setJSList(["\/local\/templates\/furniture_dark-blue\/components\/bitrix\/catalog.smart.filter\/vkr_top-filter\/script.js","\/bitrix\/components\/slam\/easyform\/lib\/js\/bootstrapValidator.min.js","\/bitrix\/components\/slam\/easyform\/script.js"]);</script>
+<script>BX.setCSSList(["\/local\/templates\/furniture_dark-blue\/components\/bitrix\/news.detail\/vkr_top_banner-page\/style.css","\/local\/templates\/furniture_dark-blue\/components\/bitrix\/breadcrumb\/vkr_breadcrumb\/style.css","\/local\/templates\/furniture_dark-blue\/components\/bitrix\/catalog.smart.filter\/vkr_top-filter\/style.css","\/local\/templates\/furniture_dark-blue\/css\/slick.css","\/local\/templates\/furniture_dark-blue\/css\/slick-theme.css","\/local\/templates\/furniture_dark-blue\/css\/style.css","\/local\/templates\/furniture_dark-blue\/components\/bitrix\/menu\/vkr_topleft-menu\/style.css","\/local\/templates\/furniture_dark-blue\/components\/bitrix\/menu\/vkr_topright-menu\/style.css","\/local\/templates\/furniture_dark-blue\/components\/bitrix\/menu\/vkr_top-menu\/style.css","\/local\/templates\/.default\/components\/bitrix\/news.list\/intro-social-list-mobile\/style.css","\/local\/templates\/.default\/components\/bitrix\/news.list\/intro-social-list\/style.css","\/local\/templates\/furniture_dark-blue\/components\/bitrix\/news.list\/vkr_new-portfolio\/style.css","\/local\/templates\/.default\/components\/bitrix\/news.list\/footer-social-list\/style.css","\/bitrix\/components\/slam\/easyform\/lib\/css\/bootstrap.min.css","\/bitrix\/components\/slam\/easyform\/lib\/css\/bootstrapValidator.min.css","\/local\/templates\/furniture_dark-blue\/components\/slam\/easyform\/vkr_modal-widget\/style.css","\/local\/templates\/furniture_dark-blue\/components\/slam\/easyform\/vkr_feedback-popup\/style.css","\/local\/templates\/furniture_dark-blue\/components\/slam\/easyform\/vkr_spec-question\/style.css","\/local\/templates\/furniture_dark-blue\/components\/slam\/easyform\/vkr_feedback-popup_calc\/style.css"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+
+ 
+    <script  src="/bitrix/cache/js/s1/furniture_dark-blue/template_1d8bb83f91f1ad688a643ad235f5fcd7/template_1d8bb83f91f1ad688a643ad235f5fcd7_v1.js?1784720771118892"></script>
+<script  src="/bitrix/cache/js/s1/furniture_dark-blue/page_4aa3a9d150807c8c4a23510490af159a/page_4aa3a9d150807c8c4a23510490af159a_v1.js?178472077514202"></script>
+
+
+    <link rel="stylesheet" href="/local/templates/furniture_dark-blue/css/style.min.css">
+    <link rel="stylesheet" href="/local/templates/furniture_dark-blue/css/curses.css">
+    <link rel="stylesheet" href="/local/templates/furniture_dark-blue/css/test.css">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <script src="/local/templates/furniture_dark-blue/js/jquery-3.4.1.min.js"></script>
+    <script src="https://unpkg.com/imask"></script>
+
+    <!--<script src="/js/script.js"></script>-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(33012779, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        trackHash:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/33012779" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</head>
+<body>
+<div id="panel">
+    </div>
+<div class="wrapper">
+  <header class="header">
+    <div class="header-logo-trigger">
+        <a href="/" class="header-logo mob">
+            <img src="/upload/uf/e12/lkuc4baouyujcus6l19ekodvw6op4klb/BIG_LOGO_S-PODP.png" alt="">
+        </a>
+        <div class="header-trigger">
+            <span></span><span></span><span></span><span></span>
+        </div>
+    </div>
+    <div class="container header-container">
+        <div class="header-top">
+            <div class="header-search-nav">
+				
+            				
+	
+
+    <nav class="nav-company-left header-nav-company">
+<ul>
+
+
+	
+	
+					<li class="has-children"><a href="/about_company/" class="root-item">О компании <i class="fas fa-chevron-right"></i></a>
+				<ul class="sub-menu">
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about_company/">О компании</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about_company/otzyvy/">Отзывы</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about_company/vakansii">Вакансии</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about_company/25let/">Видео о компании</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about_company/rekvizity/">Реквизиты</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about_company/news/">Новости</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/about_company/sale/">Специальные предложения</a></li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li><a href="/kontakty/" class="root-item">Контакты</a></li>
+			
+		
+	
+	
+
+
+</ul>
+    </nav>
+
+<form class="header-search" action="/search.php" onSubmit="ym(33012779,'reachGoal','view_search_results')">
+<input size="15" name="q" value="" class="search-suggest" type="text" autocomplete="off">
+<button name="s" type="submit" value=""><i class="fas fa-search"></i></button>
+</form>
+	
+
+    <nav class="nav-company-right header-nav-company">
+<ul>
+
+
+	
+	
+		
+							<li><a href="/personal/informatsiya/" class="root-item">Личный кабинет</a></li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li><a href="/dilery/" class="root-item">Где купить</a></li>
+			
+		
+	
+	
+
+
+</ul>
+    </nav>
+            </div>
+            <div class="nav-icons">
+            <div>
+                <!--<a href="javascript:;" class="header-shop" onClick="ym(33012779,'reachGoal','click_go_online_store'); window.open('https://albes.online/');">
+                    <div class="header-shop-icon">
+                    <i class="fas fa-shopping-cart icon-color"></i>
+                    </div>
+                    <span class="header-shop-link">
+    										
+    					В онлайн-магазин
+    					                    </span>
+                </a>-->
+            </div>
+            <div>
+                <ul class="header-lang">
+                    <li>
+                    <span>
+                        <a  onclick="$.ajax({type: 'POST', url: '/ajax_session.php', data: 'lang=ru', success: function(msg){}}); window.location.reload(); return false;" href="">ru</a>
+                    </span>
+                    </li>
+                    <li>
+                        <a  onclick="$.ajax({type: 'POST', url: '/ajax_session.php', data: 'lang=en', success: function(msg){}}); window.location.reload(); return false;" href="">en</a>
+                    </li>
+                </ul>
+                <!--<div class="header-contacts">
+                        <a href="tel:8(495) 995 75 45" class="header-phone">8(495) 995 75 45</a>
+                        <a href="mailto:reception@albes.ru" class="header-email">reception@albes.ru</a>
+                        <div id="myPopupHead" class="header-callback">
+							<span>
+													
+									написать нам
+															</span>
+                        </div>
+                </div>-->
+            </div>
+            </div>
+        </div>
+        <div class="header-bottom">
+            <a href="/" class="header-logo">
+                <img src="/upload/uf/e12/lkuc4baouyujcus6l19ekodvw6op4klb/BIG_LOGO_S-PODP.png" alt="">
+            </a>
+                
+    <nav class="header-product-nav">
+<ul>
+
+
+	
+	
+					<li data-code="Продукты" class="has-children">
+			    <span>
+				<i class="fas fa-chevron-right mobile-only"></i>
+				<a href="/catalog/">Продукты</a>
+			    </span>
+			    <ul class="sub-menu" style="display: none;">
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Дизайнерские потолки">
+				    <span>
+				        <a href="/catalog/dizaynerskie-potolki/">Дизайнерские потолки</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Реечные потолки">
+				    <span>
+				        <a href="/catalog/reechnye-potolki/">Реечные потолки</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="КАССЕТНЫЕ ПОТОЛКИ">
+				    <span>
+				        <a href="/catalog/kassetnye-potolki/">КАССЕТНЫЕ ПОТОЛКИ</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="ПОТОЛКИ ГРИЛЬЯТО">
+				    <span>
+				        <a href="/catalog/potolki-grilyato/">ПОТОЛКИ ГРИЛЬЯТО</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="ПОДВЕСНЫЕ СИСТЕМЫ">
+				    <span>
+				        <a href="/catalog/podvesnie_sistemy/">ПОДВЕСНЫЕ СИСТЕМЫ</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="ПРОФИЛИ И КОМПЛЕКТУЮЩИЕ ДЛЯ МОНТАЖА ГКЛ ">
+				    <span>
+				        <a href="/catalog/profil_gkl/">ПРОФИЛИ И КОМПЛЕКТУЮЩИЕ ДЛЯ МОНТАЖА ГКЛ </a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="НАВЕСНЫЕ ВЕНТИЛИРУЕМЫЕ ФАСАДЫ">
+				    <span>
+				        <a href="/catalog/fasad/">НАВЕСНЫЕ ВЕНТИЛИРУЕМЫЕ ФАСАДЫ</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Фальшполы Perfaten">
+				    <span>
+				        <a href="/catalog/falshpoly-perfaten/">Фальшполы Perfaten</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="РЕВИЗИОННЫЕ ЛЮКИ">
+				    <span>
+				        <a href="/catalog/revizionnye-lyuki/">РЕВИЗИОННЫЕ ЛЮКИ</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="СВЕТИЛЬНИКИ">
+				    <span>
+				        <a href="/catalog/lights/">СВЕТИЛЬНИКИ</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Акустические потолки-острова">
+				    <span>
+				        <a href="https://sound-ceiling.ru/">Акустические потолки-острова</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li data-code="Справочный центр" class="has-children">
+			    <span>
+				<i class="fas fa-chevron-right mobile-only"></i>
+				<a href="/help_center/">Справочный центр</a>
+			    </span>
+			    <ul class="sub-menu" style="display: none;">
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Техподдержка">
+				    <span>
+				        <a href="/support/">Техподдержка</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Как заказать">
+				    <span>
+				        <a href="/kak-zakazat/">Как заказать</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Документация">
+				    <span>
+				        <a href="/help_center/dokumentatsiya/">Документация</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Статьи о обзоры">
+				    <span>
+				        <a href="/help_center/stati-i-obzory/">Статьи о обзоры</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Материалы изготовления">
+				    <span>
+				        <a href="/help_center/materialy/">Материалы изготовления</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Варианты декорирования">
+				    <span>
+				        <a href="/help_center/varianty/">Варианты декорирования</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Таблица цветов RAL">
+				    <span>
+				        <a href="/help_center/ral/">Таблица цветов RAL</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Варианты цветового решения">
+				    <span>
+				        <a href="/help_center/Colour/">Варианты цветового решения</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Сравнение продукции">
+				    <span>
+				        <a href="/sravnenie/">Сравнение продукции</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Учебный центр">
+				    <span>
+				        <a href="/study/informatsiya/">Учебный центр</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+					<li data-code="Партнёрам" class="has-children">
+			    <span>
+				<i class="fas fa-chevron-right mobile-only"></i>
+				<a href="/dealers/">Партнёрам</a>
+			    </span>
+			    <ul class="sub-menu" style="display: none;">
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Стать дилером">
+				    <span>
+				        <a href="/dealers/">Стать дилером</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Учебный центр">
+				    <span>
+				        <a href="/study/onlayn-obuchenie/">Учебный центр</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="О проектной работе">
+				    <span>
+				        <a href="/stranica-arhitektora/o-proektnoy-rabote/">О проектной работе</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	
+	
+		
+							<li data-code="Наши специалисты">
+				    <span>
+				        <a href="/stranica-arhitektora/nashi-spetsialisty/">Наши специалисты</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+			</ul></li>	
+	
+		
+							<li data-code="Вакансии">
+				    <span>
+				        <a href="/about_company/vakansii/">Вакансии</a>
+				    </span>
+				</li>
+			
+		
+	
+	
+
+	<li class="mobile-only"><br>
+		<a href="/brigada/">Бригады по монтажу</a>
+	</li>
+</ul>
+    </nav>
+
+
+
+<div class="intro-social-list-mobile mobile-only">
+    <div class="header-callback">
+        <span class="fas fa- fa-envelope"></span>
+    </div>
+    <div class="intro-social-item callback-link">
+        <span class="fas fa-phone"></span>
+    </div>
+        <div>
+        <a href="https://vk.com/albesru" target="_blank">
+            <span class="fab fa-vk"></span>
+        </a>
+    </div>
+        <div>
+        <a href="https://www.youtube.com/channel/UCiPWxmsmx7CTh_OdwlDGsPw" target="_blank">
+            <span class="fab fa-youtube"></span>
+        </a>
+    </div>
+        <div>
+        <a href="https://t.me/rpo_albes" target="_blank">
+            <span class=""></span>
+        </a>
+    </div>
+        <div>
+        <a href="https://rutube.ru/channel/24254897/" target="_blank">
+            <span class=""></span>
+        </a>
+    </div>
+        <div>
+        <a href="https://dzen.ru/albes" target="_blank">
+            <span class=""></span>
+        </a>
+    </div>
+    </div>
+
+<style type="text/css">
+.intro-social-list-mobile {
+    background: #fff;
+    margin: 35px 0;
+    font-size: 20px;
+}
+.intro-social-list-mobile .header-callback {
+    border: none;
+    padding: 10px;
+    width: auto;
+}
+.intro-social-list-mobile .intro-social-item {
+    background: #fff;
+    color: #133966;
+}
+.intro-social-list-mobile a {
+    display: inline-block;
+}
+.intro-social-list-mobile > div {
+    display: inline-block;
+    vertical-align: top;
+    padding: 10px;
+}
+</style>            <div class="right-buttons">
+                <a href="/sravnenie/" class="header-bottom-cart sravnenie-bottom">
+                    <span class="fas fa-balance-scale"></span>
+                </a>
+                <!--<a href="https://albes.online " class="header-bottom-cart">
+                    <span class="fas fa-shopping-cart"></span>
+                </a>-->
+            </div>
+        </div>
+    </div>
+  </header>
+
+<div class="intro-social-list">
+    <div id="myPopupHead" class="header-callback">
+        <span class="fas fa- fa-envelope"></span>
+    </div>
+    <div class="intro-social-item callback-link">
+        <span class="fas fa-phone"></span>
+    </div>
+        <div>
+        <a href="https://vk.com/albesru" class="intro-social-item" target="_blank">
+                        <span class="fab fa-vk"></span>
+                    </a>
+    </div>
+        <div>
+        <a href="https://www.youtube.com/channel/UCiPWxmsmx7CTh_OdwlDGsPw" class="intro-social-item" target="_blank">
+                        <span class="fab fa-youtube"></span>
+                    </a>
+    </div>
+        <div>
+        <a href="https://t.me/rpo_albes" class="intro-social-item" target="_blank">
+                        <img src="/upload/iblock/b1a/mi5kkynu7d6wzrbv2bjhvl46i1kgq31o/telegram_white.png" 
+            data-image="/upload/iblock/b1a/mi5kkynu7d6wzrbv2bjhvl46i1kgq31o/telegram_white.png" 
+            data-image2="/upload/iblock/afe/1c3tgl5210gpnpftzink6h1rt2mjywcx/telegram_blue.png" 
+            alt="">
+                    </a>
+    </div>
+        <div>
+        <a href="https://rutube.ru/channel/24254897/" class="intro-social-item" target="_blank">
+                        <img src="/upload/iblock/8a0/t200wug1het8ciiakmdqnjx0tgu6i4co/risunok2111.png" 
+            data-image="/upload/iblock/8a0/t200wug1het8ciiakmdqnjx0tgu6i4co/risunok2111.png" 
+            data-image2="/upload/iblock/ea5/l1321euvjetedt51a4umlgz12oo50917/risunok21112.png" 
+            alt="">
+                    </a>
+    </div>
+        <div>
+        <a href="https://dzen.ru/albes" class="intro-social-item" target="_blank">
+                        <img src="/upload/iblock/8bb/b1p4ounm11nsbgf028ta0252tfj4b9t4/zen_logo_2.png" 
+            data-image="/upload/iblock/8bb/b1p4ounm11nsbgf028ta0252tfj4b9t4/zen_logo_2.png" 
+            data-image2="/upload/iblock/596/qd1pvcvg0iijuezoy1egecbke6bwiemm/zen_logo_1.png" 
+            alt="">
+                    </a>
+    </div>
+    </div>
+<style type="text/css">
+.intro-social-item {
+    display: block;
+    text-align: center;
+}
+.intro-social-item img {
+    width: 20px;
+    height: auto;
+}
+</style>
+<script>
+jQuery(".intro-social-item").on("mouseover", function(){
+    jQuery(this).find("img").attr("src", jQuery(this).find("img").data("image2"))
+});
+jQuery(".intro-social-item").on("mouseout", function(){
+    jQuery(this).find("img").attr("src", jQuery(this).find("img").data("image"))
+});
+</script>    <section class="page-intro">
+        <div class="container intro-container">
+    <div class="intro-bg" style="background-image:url(/upload/resize_cache/iblock/fa9/1920_311_2/404.jpg); background-size:cover;">
+        <!--<img alt="Ошибка 404" src="/upload/resize_cache/iblock/fa9/1920_311_2/404.jpg" />-->    </div>
+    <div class="intro-title-container">
+        <div class="intro-title">
+            <span>
+				
+				Ошибка 404			</span>
+        </div>
+            </div>
+</div>
+            </section>
+    <section class="production-container container">
+        <div class="section-title">
+            <span><b>СТРАНИЦА НЕ НАЙДЕНА</span>
+        </div>
+        <br><br><br><br>
+    </section>
+    <script>
+        ym(33012779,'reachGoal','error_404');
+    </script>
+<!--ПОРТФОЛИО РЕАЛИЗОВАННЫХ ОБЪЕКТОВ  -->
+<!--
+
+
+<section class="pf-block">
+    <div class="container pf-block-container arrows-slider-container">
+        <div class="section-title pf-block-title">
+            <span>
+                <a href="/portfolio/" style="text-decoration:none;">
+	
+    <b>ПОРТФОЛИО</b> РЕАЛИЗОВАННЫХ ОБЪЕКТОВ
+</a>	
+            </span>
+            <i class="fas fa-arrow-right"></i>
+        </div>
+        <div class="pf-block-list arrows-slider">
+        </div>
+    </div>
+</section>
+ -->
+<footer class="footer">
+    <div class="container footer-container">
+        <div class="footer-contacts" itemscope="" itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="АЛБЕС">
+            <a href="/" class="footer-logo">
+                <img src="/upload/uf/e12/lkuc4baouyujcus6l19ekodvw6op4klb/BIG_LOGO_S-PODP.png" alt="">
+            </a>
+            <div class="footer-loc" itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
+                <span itemprop="postalCode">142701</span>, 
+                <span itemprop="addressLocality">Московская обл., г. Видное</span>, 
+                <span itemprop="streetAddress">тер. Южная промзона, владение 7 помещение 101</span>
+                <!--142701, Московская обл., 
+г. Видное, тер. Южная промзона, 
+владение 7 помещение 101-->
+            </div>
+            <div class="footer-communications">
+                <div class="footer-communications-item">
+                    <span>Электронная почта:</span>
+                    <a href="mailto:reception@albes.ru" itemprop="email">reception@albes.ru</a>
+                </div>
+                <div class="footer-communications-item">
+                    <span>Тел./Факс:</span>
+                    <span itemprop="telephone"><a href="tel:8(495) 995 75 45">8(495) 995 75 45</a></span>
+                </div>
+            </div>
+            <div class="copyright">
+                <a href="https://dalirion.ru/?utm_source=copyright" target="_blank">Далирион - быстрое создание, поддержка и реклама сайтов</a>
+            </div>
+        </div>
+        <div>
+        <nav class="footer-nav-list">
+            <div class="footer-nav-column">
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/catalog/">
+                            								ПРОДУКТЫ
+							                        </a>
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                </div>
+              <!--  <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/portfolio/">
+
+															ПОРТФОЛИО
+							                        </a>
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                </div> -->
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/study/informatsiya/">
+
+															УЧЕБНЫЙ ЦЕНТР
+							                        </a>
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/support/">
+
+															ТЕХНИЧЕСКАЯ ПОДДЕРЖКА
+							                        </a>
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-nav-column">
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/kalkulyatory/">
+
+															КАЛЬКУЛЯТОР
+							                        </a>
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/stranica-arhitektora/o-proektnoy-rabote/">
+
+															АРХИТЕКТОРАМ
+							                        </a>
+                        <i class="fas fa-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/about_company/">
+
+															О КОМПАНИИ
+							                        </a>
+                    </div>
+                </div>
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/kontakty/">
+
+															КОНТАКТЫ
+
+							                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-nav-column">
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/about_company/news/">
+
+															НОВОСТИ
+
+							                        </a>
+                    </div>
+                </div>
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/help_center/dokumentatsiya/">
+
+															ДОКУМЕНТАЦИЯ
+
+							                        </a>
+                    </div>
+                </div>
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/personal/informatsiya/">
+
+															ЛИЧНЫЙ КАБИНЕТ
+
+							                        </a>
+                    </div>
+                </div>
+                <div class="footer-nav-item">
+                    <div class="nav-item-title">
+                        <a href="/sitemap/">
+
+															КАРТА САЙТА
+
+							                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+<!--
+<div class="footer-social"> 
+        <a href="https://vk.com/albesru" class="intro-social-item" target="_blank">
+        <span class="fab fa-vk"></span>
+    </a>
+        <a href="https://www.youtube.com/channel/UCiPWxmsmx7CTh_OdwlDGsPw" class="intro-social-item" target="_blank">
+        <span class="fab fa-youtube"></span>
+    </a>
+        <a href="https://t.me/rpo_albes" class="intro-social-item" target="_blank">
+        <span class=""></span>
+    </a>
+        <a href="https://rutube.ru/channel/24254897/" class="intro-social-item" target="_blank">
+        <span class=""></span>
+    </a>
+        <a href="https://dzen.ru/albes" class="intro-social-item" target="_blank">
+        <span class=""></span>
+    </a>
+    </div>
+
+-->
+
+            <!--<div class="footer-social-app">
+                <a href="/mobilnoe-prilozhenie/">
+                    Мобильное приложение
+                </a>
+            </div>-->
+        </div>
+    </div>
+	<div class="container footer-message">
+	 <a href="/politika-konfidentsialnosti/">Политика конфиденциальности</a>
+	</div>
+    <div class="container footer-message">
+      Вся представленная на сайте информация, касающаяся технических характеристик, наличия на складе, стоимости товаров, носит информационный характер и ни при каких условиях не является публичной офертой, определяемой положениями Статьи 437(2) Гражданского кодекса РФ.
+    </div>
+</footer>
+
+<div class="overlay">
+</div>
+<!--<div class="widget-modal widget-subscribe">
+	<div class="widget-modal-title section-title">
+		 Подписаться
+	</div>
+	<div class="widget-modal-desc block-description">
+		 Подписавшись на нашу рассылку, Вы всегда будете в курсе всей новой информации.
+	</div>
+	<form action="/ajax/ajax_subscribe.php"  class="widget-subscribe-form widget-form">
+	 	<div>
+	 	    <input type="email" class="widget-input" name="email" placeholder="Ваш e-mail">
+	 	</div>
+	 	<div>
+	 	    <button class="widget-button" type="submit">Отправить</button>
+	 	</div>
+	</form>
+	<div class="form-trigger modal-close">
+	        <span>Свернуть </span> <i class="fas fa-arrow-right"></i>
+	</div>
+</div>
+<script>
+$('.widget-subscribe-form').on('submit', function (e) {
+    e.preventDefault();
+    $.post("/ajax/ajax_subscribe.php", $('.widget-subscribe-form').serialize(),
+        function (data, textStatus, jqXHR) {
+            $('.widget-subscribe-form').text(data);
+        },
+        "html"
+    );
+});
+</script>-->
+
+<div id="modal-" class="widget-modal widget-callback">
+
+    
+
+<div class="feedback-form">
+    <form class="contact-form" id="FORM11">
+        <input type="hidden" name="key" value="" class="form-key">
+        <input type="hidden" name="subject" value="Заявка менеджеру">
+        <div class="widget-modal-title section-title">Отправить <b>заявку</b></div>
+        <div class="widget-modal-desc block-description">
+          <br>
+          Отправьте заявку и с Вами свяжется наш менеджер.
+          <br><br>
+          Нажимая на кнопку "Отправить" вы даете согласие на <a href="/politika-konfidentsialnosti/">обработку своих персональных данных</a>
+        </div>
+        <div class="widget-callback-form widget-form">
+                    <div>
+                <input type="text" name="FIELDS[TITLE]" class="widget-input" id="FORM11_FIELD_TITLE" name="" value="" required placeholder="Ваше имя">
+            </div>
+                    <div>
+                <input type="text" name="FIELDS[PHONE]" class="widget-input" id="FORM11_FIELD_PHONE" name="" value="" required placeholder="Ваш телефон">
+            </div>
+                    <div class="control-label">
+                <div class="submit-btn widget-button">Отправить заявку</div>
+            </div>
+        </div>
+        <div class="form-result"></div>
+    </form>
+</div>
+
+<script>
+$(document).ready(function() {
+    $(window).on("mousemove click", function(){ 
+        $(".form-key").val("610a2ee688cda9e724885e23cd2cfdee");
+    });
+});
+
+$("#FORM11 .submit-btn").click(function(){
+    form = $(this).closest("form");
+    submitForm_FORM11(form);
+});
+
+function validateForm_FORM11(form){
+    validated = true;
+    $(form).find("[required]").each(function(){
+        $(this).parent().removeClass("error_input");
+        if ($(this).val().length<3){
+            validated = false;
+            $(this).parent().addClass("error_input");
+        }
+    });
+    return validated;
+}
+  
+function submitForm_FORM11(form){
+    $(form).find(".form-result").html('<div class="alert">Подождите..</div>');
+    validated = validateForm_FORM11(form);
+    if (validated==true){
+        ym(33012779,'reachGoal','send_request_form_submit');
+        form_data = form.serialize();
+        $.ajax({
+            type: "POST",
+            url: '/form-send.php',
+            data: form_data,
+            success: function(data){
+                console.log(data);
+                obj = JSON.parse(data);
+                if (obj.result=="true"){
+                    $(form).find("input, select, textarea").prop("disabled","true");
+                    //$(form).find("*").hide();
+                    $(form).find(".form-result").show().html('<div class="alert alert-success">'+obj.message+'</div');
+                    $(form).find(".btn").removeClass("submit-btn").text("Отправлено");
+                }
+                else{
+                    $(form).find(".form-result").show().html('<div class="alert alert-error">'+obj.message+'</div');
+                }
+            },
+            error: function(xhr, str){
+                $(form).find(".form-result").show().html('<div class="alert alert-error">Возникла ошибка: '+xhr.responseCode+"</div>");
+            }
+        });
+    }
+    else{
+        $(form).find(".form-result").show().html('<div class="alert alert-error">Ошибка заполнения формы</div>');
+    }
+}
+</script>	<div class="form-trigger modal-close">
+	        <span>Свернуть </span> <i class="fas fa-arrow-right"></i>
+	</div>
+</div><div id="myPopupBg" class="myPopupBg"></div>
+
+<div id="myPopupHeadBlock" class="popup_header">
+    <div class="myPopupHeadBlockClose">
+        <span></span><span></span>
+    </div>
+    
+<div class="slam-easyform feedback-form">
+    <h2>Написать нам</h2>
+    <form class="contact-form" id="FORM1">
+        <div class="form-result"></div>
+        <input type="hidden" name="key" value="" class="form-key">
+        <input type="hidden" name="subject" value="Написать нам">
+        <div class="col-xs-12">
+            <p>Задайте вопрос специалистам компании, оставьте своё мнение о качестве предоставляемых услуг, либо внесите свои предложения по улучшению работы.</p>
+            <p>Мы постараемся ответить на Ваше сообщение в течении суток.</p>
+        </div>
+        <div>
+                    <label class="control-label">
+                <!--<p>
+                     Ваше имя                                     </p>-->
+                                <input type="text" name="FIELDS[TITLE]" class="form-control" id="FORM1_FIELD_TITLE" name="" value="" placeholder="Ваше имя" >
+                            </label>
+                    <label class="control-label">
+                <!--<p>
+                     Организация                                     </p>-->
+                                <input type="text" name="FIELDS[Организация]" class="form-control" id="FORM1_FIELD_Организация" name="" value="" placeholder="Организация" >
+                            </label>
+                    <label class="control-label">
+                <!--<p>
+                     Ваш E-mail                                          <span class="asterisk">*</span>
+                                     </p>-->
+                                <input type="text" name="FIELDS[EMAIL]" class="form-control" id="FORM1_FIELD_EMAIL" name="" value="" placeholder="Ваш E-mail" required>
+                            </label>
+                    <label class="control-label">
+                <!--<p>
+                     Ваш телефон                                          <span class="asterisk">*</span>
+                                     </p>-->
+                                <input type="text" name="FIELDS[PHONE]" class="form-control" id="FORM1_FIELD_PHONE" name="" value="" placeholder="Ваш телефон" required>
+                            </label>
+                    <label class="control-label">
+                <!--<p>
+                     Сообщение                                     </p>-->
+                                <textarea rows="5" name="FIELDS[MESSAGE]" class="form-control" placeholder="Сообщение"></textarea>
+                            </label>
+                    <div class="col-xs-12">
+                <p>* - поля, обязательные для заполнения</p>
+                <div>Нажимая на кнопку "Отправить" вы даете согласие на <a href="/politika-konfidentsialnosti/">обработку своих персональных данных</a></div>
+                <br>
+            </div>
+            <label class="control-label">
+                <div class="btn btn-primary submit-btn">Отправить заявку</div>
+            </label>
+        </div>
+    </form>
+</div>
+
+<script>
+$(document).ready(function() {
+    $(window).on("mousemove click", function(){ 
+        $(".form-key").val("610a2ee688cda9e724885e23cd2cfdee");
+    });
+});
+
+$("#FORM1 .submit-btn").click(function(){
+    form = $(this).closest("form");
+    submitForm_FORM1(form);
+});
+
+function validateForm_FORM1(form){
+    validated = true;
+    $(form).find("[required]").each(function(){
+        $(this).parent().removeClass("error_input");
+        if ($(this).val().length<3){
+            validated = false;
+            $(this).parent().addClass("error_input");
+        }
+    });
+    return validated;
+}
+  
+function submitForm_FORM1(form){
+    $(form).find(".form-result").html('<div class="alert">Подождите..</div>');
+    validated = validateForm_FORM1(form);
+    if (validated==true){
+        ym(33012779,'reachGoal','write_us_form_submit');
+        form_data = form.serialize();
+        $.ajax({
+            type: "POST",
+            url: '/form-send.php',
+            data: form_data,
+            success: function(data){
+                console.log(data);
+                obj = JSON.parse(data);
+                if (obj.result=="true"){
+                    $(form).find("input, select, textarea").prop("disabled","true");
+                    //$(form).find("*").hide();
+                    $(form).find(".form-result").show().html('<div class="alert alert-success">'+obj.message+'</div');
+                    $(form).find(".btn").removeClass("submit-btn").text("Отправлено");
+                }
+                else{
+                    $(form).find(".form-result").show().html('<div class="alert alert-error">'+obj.message+'</div');
+                }
+            },
+            error: function(xhr, str){
+                $(form).find(".form-result").show().html('<div class="alert alert-error">Возникла ошибка: '+xhr.responseCode+"</div>");
+            }
+        });
+    }
+    else{
+        $(form).find(".form-result").show().html('<div class="alert alert-error">Ошибка заполнения формы</div>');
+    }
+}
+</script></div>
+
+<div id="myPopupHeadBlock2" class="popup_header">
+    <div class="myPopupHeadBlockClose">
+        <span></span><span></span>
+    </div>
+    
+<div class="slam-easyform feedback-form">
+    <h2>Вопрос по продукту</h2>
+    <form class="contact-form" id="FORM10">
+        <div class="form-result"></div>
+        <input type="hidden" name="key" value="" class="form-key">
+        <input type="hidden" name="subject" value="Вопрос по продукту">
+        <input type="hidden" name="FIELDS[URL]" value="https://albes.ru/upload/iblock/064/st.png/">
+        <div class="col-xs-12">
+            <p>Задайте вопрос специалистам компании, оставьте своё мнение о качестве предоставляемых услуг, либо внесите свои предложения по улучшению работы.</p>
+            <p>Мы постараемся ответить на Ваше сообщение в течении суток.</p>
+        </div>
+        <div>
+                    <label class="control-label">
+                <p>
+                     Ваше имя                                     </p>
+                                <input type="text" name="FIELDS[TITLE]" class="form-control" id="FORM10_FIELD_TITLE" name="" value="" placeholder="Ваше имя" >
+                            </label>
+                    <label class="control-label">
+                <p>
+                     Организация                                     </p>
+                                <input type="text" name="FIELDS[Организация]" class="form-control" id="FORM10_FIELD_Организация" name="" value="" placeholder="Организация" >
+                            </label>
+                    <label class="control-label">
+                <p>
+                     Ваш E-mail                                          <span class="asterisk">*</span>
+                                     </p>
+                                <input type="text" name="FIELDS[EMAIL]" class="form-control" id="FORM10_FIELD_EMAIL" name="" value="" placeholder="Ваш E-mail" required>
+                            </label>
+                    <label class="control-label">
+                <p>
+                     Ваш телефон                                          <span class="asterisk">*</span>
+                                     </p>
+                                <input type="text" name="FIELDS[PHONE]" class="form-control" id="FORM10_FIELD_PHONE" name="" value="" placeholder="Ваш телефон" required>
+                            </label>
+                    <label class="control-label">
+                <p>
+                     Сообщение                                     </p>
+                                <textarea rows="5" name="FIELDS[MESSAGE]" class="form-control" placeholder="Сообщение"></textarea>
+                            </label>
+                    <div class="col-xs-12">
+                <p>* - поля, обязательные для заполнения</p>
+                <div>Нажимая на кнопку "Отправить" вы даете согласие на <a href="/politika-konfidentsialnosti/">обработку своих персональных данных</a></div>
+                <br>
+            </div>
+            <label class="control-label">
+                <div class="btn btn-primary submit-btn">Отправить заявку</div>
+            </label>
+        </div>
+    </form>
+</div>
+
+<script>
+$(document).ready(function() {
+    $(window).on("mousemove click", function(){ 
+        $(".form-key").val("610a2ee688cda9e724885e23cd2cfdee");
+    });
+});
+
+$("#FORM10 .submit-btn").click(function(){
+    form = $(this).closest("form");
+    submitForm_FORM10(form);
+});
+
+function validateForm_FORM10(form){
+    validated = true;
+    $(form).find("[required]").each(function(){
+        $(this).parent().removeClass("error_input");
+        if ($(this).val().length<3){
+            validated = false;
+            $(this).parent().addClass("error_input");
+        }
+    });
+    return validated;
+}
+  
+function submitForm_FORM10(form){
+    $(form).find(".form-result").html('<div class="alert">Подождите..</div>');
+    validated = validateForm_FORM10(form);
+    if (validated==true){
+        ym(33012779,'reachGoal','ask_about_product_form_submit');
+        form_data = form.serialize();
+        $.ajax({
+            type: "POST",
+            url: '/form-send.php',
+            data: form_data,
+            success: function(data){
+                console.log(data);
+                obj = JSON.parse(data);
+                if (obj.result=="true"){
+                    $(form).find("input, select, textarea").prop("disabled","true");
+                    $(form).find(".form-result").show().html('<div class="alert alert-success">'+obj.message+'</div');
+                    $(form).find(".btn").removeClass("submit-btn").text("Отправлено");
+                }
+                else{
+                    $(form).find(".form-result").show().html('<div class="alert alert-error">'+obj.message+'</div');
+                }
+            },
+            error: function(xhr, str){
+                $(form).find(".form-result").show().html('<div class="alert alert-error">Возникла ошибка: '+xhr.responseCode+"</div>");
+            }
+        });
+    }
+    else{
+        $(form).find(".form-result").show().html('<div class="alert alert-error">Ошибка заполнения формы</div>');
+    }
+}
+</script></div>
+
+<div id="myPopupHeadBlock3" class="popup_header">
+    <div class="myPopupHeadBlockClose">
+        <span></span><span></span>
+    </div>
+    
+<div class="slam-easyform feedback-form">
+    <h2>Вопрос по продукту</h2>
+    <form class="contact-form" id="FORM10">
+        <div class="form-result"></div>
+        <input type="hidden" name="key" value="" class="form-key">
+        <input type="hidden" name="subject" value="Вопрос по продукту">
+        <div class="col-xs-12">
+            <p>Задайте вопрос специалистам компании, оставьте своё мнение о качестве предоставляемых услуг, либо внесите свои предложения по улучшению работы.</p>
+            <p>Мы постараемся ответить на Ваше сообщение в течении суток.</p>
+        </div>
+        <div>
+                    <label class="control-label">
+                <p>
+                     Ваше имя                                     </p>
+                                <input type="text" name="FIELDS[TITLE]" class="form-control" id="FORM10_FIELD_TITLE" name="" value="" placeholder="Ваше имя" >
+                            </label>
+                    <label class="control-label">
+                <p>
+                     Организация                                     </p>
+                                <input type="text" name="FIELDS[Организация]" class="form-control" id="FORM10_FIELD_Организация" name="" value="" placeholder="Организация" >
+                            </label>
+                    <label class="control-label">
+                <p>
+                     Ваш E-mail                                          <span class="asterisk">*</span>
+                                     </p>
+                                <input type="text" name="FIELDS[EMAIL]" class="form-control" id="FORM10_FIELD_EMAIL" name="" value="" placeholder="Ваш E-mail" required>
+                            </label>
+                    <label class="control-label">
+                <p>
+                     Ваш телефон                                          <span class="asterisk">*</span>
+                                     </p>
+                                <input type="text" name="FIELDS[PHONE]" class="form-control" id="FORM10_FIELD_PHONE" name="" value="" placeholder="Ваш телефон" required>
+                            </label>
+                    <label class="control-label">
+                <p>
+                     Сообщение                                     </p>
+                                <textarea rows="5" name="FIELDS[MESSAGE]" class="form-control" placeholder="Сообщение"></textarea>
+                            </label>
+                    <div class="col-xs-12">
+                <p>* - поля, обязательные для заполнения</p>
+                <div>Нажимая на кнопку "Отправить" вы даете согласие на <a href="/politika-konfidentsialnosti/">обработку своих персональных данных</a></div>
+                <br>
+            </div>
+            <label class="control-label">
+                <div class="btn btn-primary submit-btn">Отправить заявку</div>
+            </label>
+        </div>
+    </form>
+</div>
+
+<script>
+$(document).ready(function() {
+    $(window).on("mousemove click", function(){ 
+        $(".form-key").val("610a2ee688cda9e724885e23cd2cfdee");
+    });
+});
+
+$("#FORM10 .submit-btn").click(function(){
+    form = $(this).closest("form");
+    submitForm_FORM10(form);
+});
+
+function validateForm_FORM10(form){
+    validated = true;
+    $(form).find("[required]").each(function(){
+        $(this).parent().removeClass("error_input");
+        if ($(this).val().length<3){
+            validated = false;
+            $(this).parent().addClass("error_input");
+        }
+    });
+    return validated;
+}
+  
+function submitForm_FORM10(form){
+    $(form).find(".form-result").html('<div class="alert">Подождите..</div>');
+    validated = validateForm_FORM10(form);
+    if (validated==true){
+        ym(33012779,'reachGoal','specialists_question_form_submit');
+        form_data = form.serialize();
+        $.ajax({
+            type: "POST",
+            url: '/form-send.php',
+            data: form_data,
+            success: function(data){
+                console.log(data);
+                obj = JSON.parse(data);
+                if (obj.result=="true"){
+                    $(form).find("input, select, textarea").prop("disabled","true");
+                    //$(form).find("*").hide();
+                    $(form).find(".form-result").show().html('<div class="alert alert-success">'+obj.message+'</div');
+                    $(form).find(".btn").removeClass("submit-btn").text("Отправлено");
+                }
+                else{
+                    $(form).find(".form-result").show().html('<div class="alert alert-error">'+obj.message+'</div');
+                }
+            },
+            error: function(xhr, str){
+                $(form).find(".form-result").show().html('<div class="alert alert-error">Возникла ошибка: '+xhr.responseCode+"</div>");
+            }
+        });
+    }
+    else{
+        $(form).find(".form-result").show().html('<div class="alert alert-error">Ошибка заполнения формы</div>');
+    }
+}
+</script></div>
+
+
+<div class="cookie-alert">
+  <div>
+    Используя сайт albes.ru, вы соглашаетесь с тем, что мы можем хранить куки (cookies) вашего браузера.
+    <a href="/politika-konfidentsialnosti/">Политика конфиденциальности.</a>
+  </div>
+  <div>
+    <div class="button">Принять</div>
+  </div>
+</div>
+
+
+<div class="gototop-btn">▲</div>
+
+<script src="/local/templates/furniture_dark-blue/js/jquery-3.4.1.min.js"></script>
+<script src="/local/templates/furniture_dark-blue/js/slick.min.js"></script>
+<script src="/js/script.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.vkr_news-content-app').slick({
+            dots: false,
+            infinite: true,
+            speed: 300,
+            slidesToShow: 1,
+        });
+		
+		var count = 0;
+		$( ".intro-cat-item" ).each(function() {
+		var dataCat=$(this).attr('data-cat');
+		
+		var $thisParagraph = $( this );
+		var count = 0;
+		$thisParagraph.click(function() {
+			console.log(dataCat);
+			var index = dataCat-1;
+			var linkDiv=$(document).find('.cat-item-links_'+index);
+			var link = linkDiv.children(0).attr('href');
+			count++;
+			$thisParagraph.toggleClass( "highlight", count % 2 === 0 ); 
+			if(count % 2==0){
+				 document.location.href=link;
+			}
+		});
+		});
+    });
+</script>
+
+<!--<script type="text/javascript">
+    var span = document.querySelector('span.ratingtypeplusminus');
+    span.style.visibility = (span.innerHTML == '0') ? 'hidden' : '';
+</script>-->
+<script type="text/javascript">
+    $(".header-callback").click(function(){
+        $("#myPopupBg").show();
+        $("#myPopupHeadBlock").show();
+    });
+    $(".myPopupHeadBlockClose").click(function(){
+        $("#myPopupBg").hide();
+        $("#myPopupHeadBlock").hide();
+    });
+    
+    $(".spec-question2").click(function(){
+        text = $(this).data("text");
+        if (text.length>0){
+            $("#myPopupHeadBlock2 textarea").val(text);
+        }
+        $("#myPopupBg").show();
+        $("#myPopupHeadBlock2").show();
+    });
+    $(".myPopupHeadBlockClose").click(function(){
+        $("#myPopupBg").hide();
+        $("#myPopupHeadBlock2").hide();
+    });
+    
+    $(".calc-callback").click(function(){
+        $("#myPopupBg").show();
+        $("#myPopupHeadBlock3").show();
+    });
+    $(".myPopupHeadBlockClose").click(function(){
+        $("#myPopupBg").hide();
+        $("#myPopupHeadBlock3").hide();
+    });
+    
+    $(document).mouseup(function(e){
+        var div = $(".popup_header");
+        if (!div.is(e.target) && div.has(e.target).length === 0){ 
+          $("#myPopupBg").hide();
+          $(".popup_header").hide();
+        }
+    });
+
+    if($(window).width() < '768') {
+        $('.filters-column-title').on('click', function() {
+            if($(this).hasClass('active')) {
+                $(this).siblings('.filters-column-list').slideUp(400);
+                //$(this).removeClass('active');
+		$("filters-column-title").removeClass('active');
+            } else {
+                //$('.nav-links-list').slideUp(400);
+		$("filters-column-title").addClass('active');
+		//$(this).addClass('active');
+                $(this).siblings('.filters-column-list').slideDown(400);
+            }
+        });
+
+        $('.form-trigger').on('click', function() {
+            if($(this).hasClass('active')) {
+		$('.filters-block').slideUp(400);
+                $(this).closest('.filters-block').slideUp(400);
+                $(this).removeClass('active');
+            } else {
+		$('.filters-block').slideDown(400);
+                $(this).addClass('active');
+                $(this).closest('.filters-block').slideDown(400);
+            }
+        });
+
+        $('.sidebar-trigger').on('click', function() {
+            if($(this).hasClass('active')) {
+                $(this).siblings('.sidebar-subject').slideUp(400);
+                //$(this).removeClass('active');
+				$("sidebar-trigger").removeClass('active');
+            } else {
+                //$(this).addClass('active');
+				$("sidebar-trigger").addClass('active');
+                $(this).siblings('.sidebar-subject').slideDown(400);
+            }
+        });
+
+    } else {
+
+        $('.form-trigger').on('click', function() {
+            if($(this).hasClass('active')) {
+                $(this).closest('.search-form').find('.filters-column-list').slideUp(400);
+                $(this).closest('.search-form').find('.clear-products-block').removeClass('active');
+                $(this).removeClass('active');
+            } else {
+                $(this).addClass('active');
+                $(this).closest('.search-form').find('.filters-column-list').slideDown(400);
+                $(this).closest('.search-form').find('.clear-products-block').addClass('active');
+            }
+        });
+    }
+
+    $(".dealers-tab").click(function(){
+        showTab($(this).index(),'dealers-tab','dealers-content-item');
+    });
+    showTab(0,'dealers-tab','dealers-content-item');
+
+	
+
+    $(".docs-tab").click(function(){
+        showTab($(this).index(),'docs-tab','calculator-forms-item');
+    });
+    showTab(0,'docs-tab','calculator-forms-item');
+
+    $(".calculator-tabs-item").click(function(){
+        showTab($(this).index(),'calculator-tabs-item','calculator-forms-item');
+    });
+    showTab(0,'calculator-tabs-item','calculator-forms-item');
+
+    $(".calculator-tabs-item2").click(function(){
+        showTab($(this).index(),'calculator-tabs-item2','ventfasad-calculation-container');
+    });
+    showTab(0,'calculator-tabs-item2','ventfasad-calculation-container');
+
+    $(".contacts-tab-item").click(function(){
+        showTab($(this).index(),'contacts-tab-item','contacts-content-item');
+    });
+    showTab(0,'contacts-tab-item','contacts-content-item');
+
+    $('table').wrap('<div class="overlay-table"></div>');
+    $('.result-block').wrap('<div class="overlay-table"></div>');
+    
+    $(".subscribe-modal .close-btn").on("click", function(){
+        $.ajax({
+            type: "POST",
+            url: "/local/templates/furniture_dark-blue/accept-subscribe.php",
+            data: "accept=1",
+            success: function(data){
+                $(".subscribe-modal").fadeOut();      
+            }
+        });
+    });
+    
+    $(".cookie-alert .button").on("click", function(){
+        $.ajax({
+            type: "POST",
+            url: "/local/templates/furniture_dark-blue/accept-cookie.php",
+            data: "accept=1",
+            success: function(data){
+                $(".cookie-alert").fadeOut();
+            }
+        });
+    });
+    
+    function showTab(index,tab,block){
+        $("."+tab+"").removeClass("active");
+        $("."+tab+":eq("+index+")").addClass("active");
+        $("."+block+" *").removeAttr("style");
+        $("."+block+"").hide()
+        $("."+block+":eq("+index+")").fadeIn();
+    }
+    
+    $(window).scroll(function(){ 
+        //if ($(window).width()>950){
+            if ($(this).scrollTop()>800){
+                $(".gototop-btn").show();
+            }
+            else{
+                $(".gototop-btn").hide();
+            }
+        //}
+    });
+    
+    $(".gototop-btn").click(function(){
+        $("html, body").animate({scrollTop: "0"});
+    });
+</script>
+
+<!--
+<script src="/local/templates/furniture_dark-blue/js/jquery-3.4.1.min.js"></script>
+<script type="text/javascript">
+  content = "<ul>\n";
+  $(".catalog-list a").each(function(){
+    href = $(this).attr("href");
+    text = $(this).find(".catalog-item-text span").html();
+    text = text.replace(/\\t/, '');
+    text = text.replace(/\s{2,}/g, '');
+    text = text.replace(/(\r\n|\n|\r)/gm, '');
+    content += "<li><a href=\""+href+"\">"+text+"</a></li>\n";
+  });
+  content += "</ul>";
+  console.log(content);
+  
+  content = "<ul>\n";
+  $(".nav-list a").each(function(){
+    href = $(this).attr("href");
+    text = $(this).text();
+    text = text.replace(/\\t/, '');
+    text = text.replace(/\s{2,}/g, '');
+    text = text.replace(/(\r\n|\n|\r)/gm, '');
+    content += "<li><a href=\""+href+"\">"+text+"</a></li>\n";
+  });
+  content += "</ul>";
+  console.log(content);
+</script>
+-->
+
+<!-- Верхнее выпадающее меню -->
+
+<div style="display: none;">
+<div class="supermenu_block" data-code="Партнёрам">
+    <div class="supermenu_table">
+                <div class="column">
+            <h3>
+                            Архитекторам                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/stranica-arhitektora/o-proektnoy-rabote/">О проектной работе</a>
+            </div>
+                        <div class="item">
+                <a href="/stranica-arhitektora/portfolio-realizovannykh-proektov/">Портфолио объектов</a>
+            </div>
+                        <div class="item">
+                <a href="/stranica-arhitektora/nashi-spetsialisty/">Наши специалисты</a>
+            </div>
+                        <div class="item">
+                <a href="/stranica-arhitektora/tekhnicheskaya-dokumentatsiya/">Техническиая документация</a>
+            </div>
+                        <div class="item">
+                <a href="/stranica-arhitektora/istoriya-odnogo-obekta/">История одного объекта</a>
+            </div>
+             
+        </div>
+                <div class="column">
+            <h3>
+                            Дилерам                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/dealers/">Подать заявку на дилерство</a>
+            </div>
+                        <div class="item">
+                <a href="/portfolio/">Портфолио объектов</a>
+            </div>
+                        <div class="item">
+                <a href="/dilery/">Карта дилеров в регионах</a>
+            </div>
+             
+        </div>
+                <div class="column">
+            <h3>
+                            Учебный центр                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/study/informatsiya/">Про учебный центр</a>
+            </div>
+                        <div class="item">
+                <a href="/study/instructional-videos/">Видео-инструкции по монтажу потолочных систем</a>
+            </div>
+                        <div class="item">
+                <a href="/study/grafik-provedeniya-seminarov/">График проведения оффлайн семинаров</a>
+            </div>
+                        <div class="item">
+                <a href="/study/zakazat-seminar/">Заказать оффлайн семинар</a>
+            </div>
+                        <div class="item">
+                <a href="/study/video-ekskursiya-po-uchebnomu-tsentru/">Видео-экскурсия по учебному центру</a>
+            </div>
+             
+        </div>
+         
+    </div>
+</div>
+<div class="supermenu_block" data-code="Продукты">
+    <div class="supermenu_table">
+                <div class="column">
+            <h3>
+                            <a href="/catalog/">Продукты</a>
+                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/catalog/dizaynerskie-potolki/">Дизайнерские потолки</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/reechnye-potolki/">Реечные потолки</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/kassetnye-potolki/">Кассетные потолки</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/potolki-grilyato/">Потолки Грильято</a>
+            </div>
+                        <div class="item">
+                <a href="https://sound-ceiling.ru/ ">Акустические потолки-острова</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/podvesnie_sistemy/">Подвесные системы</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/profil_gkl/">Профили и комплектующие для монтажа ГКЛ</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/fasad/">Навесные вентилируемые фасады</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/falshpoly-perfaten/">Фальшполы PERFATEN</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/revizionnye-lyuki/">Ревизионные люки</a>
+            </div>
+                        <div class="item">
+                <a href="/catalog/lights/">Светильники</a>
+            </div>
+             
+        </div>
+                <div class="column">
+            <h3>
+                            Области применения                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/primenenie/zhilye-kompleksy.php">Жилые комплексы</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/obrazovanie.php">Образование</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/zdravookhranenie.php">Здравоохранение</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/ofisy.php">Офисы</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/sport.php">Спорт</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/sfery-dosuga-i-torgovli.php">Досуг и торговля</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/transport.php">Транспорт</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/promyshlennost.php">Промышленность</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/tsody.php">ЦОДы</a>
+            </div>
+             
+        </div>
+                <div class="column">
+            <h3>
+                            Характеристики                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/primenenie/antibakterialnaya-zashchita.php">Антибактериальная система</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/akustika.php">Акустика</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/ustoychivost-k-tsarapinam.php">Антивандальная система</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/vlagostoykost.php">Влагостойкость</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/protivopozharnaya-zashchita.php">Противопожарная защита</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/seysmostoykost.php">Сейсмостойкость</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/chistaya-sreda.php">Чистые помещения</a>
+            </div>
+                        <div class="item">
+                <a href="/primenenie/svetootrazhenie.php">Светоотражение</a>
+            </div>
+             
+        </div>
+                <div class="column">
+            <h3>
+                            <a href="/sravnenie/">Сравнение продукции</a>
+                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+             
+        </div>
+         
+    </div>
+</div>
+<div class="supermenu_block" data-code="Справочный центр">
+    <div class="supermenu_table">
+                <div class="column">
+            <h3>
+                            <a href="/help_center/dokumentatsiya/">Документация</a>
+                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/help_center/dokumentatsiya/?section=4">BIM библиотеки</a>
+            </div>
+                        <div class="item">
+                <a href="/help_center/dokumentatsiya/?section=1">Каталоги и буклеты</a>
+            </div>
+                        <div class="item">
+                <a href="/help_center/dokumentatsiya/?section=2">Сертификаты</a>
+            </div>
+             
+        </div>
+                <div class="column">
+            <h3>
+                            <a href="/kalkulyatory/">Калькулятор</a>
+                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/kalkulyatory/reechnye-potolki/">Реечные потолки</a>
+            </div>
+                        <div class="item">
+                <a href="/kalkulyatory/calc_kassetnie_potolki/">Кассетные потолки</a>
+            </div>
+                        <div class="item">
+                <a href="/kalkulyatory/calc_potolki_grilyato/">Потолки Грильято</a>
+            </div>
+                        <div class="item">
+                <a href="/kalkulyatory/calc_podvesnie_sistemy/">Подвесные системы</a>
+            </div>
+                        <div class="item">
+                <a href="/kalkulyatory/calc_gkl/">Профили ГКЛ</a>
+            </div>
+                        <div class="item">
+                <a href="/kalkulyatory/calc_revisionnie_lyuki/">Ревизионные люки</a>
+            </div>
+                        <div class="item">
+                <a href="/kalkulyatory/falshpol/">Фальшполы</a>
+            </div>
+                        <div class="item">
+                <a href="/kalkulyatory/calc_vent_fasady/">Навесные вентилируемые фасады</a>
+            </div>
+             
+        </div>
+                <div class="column">
+            <h3>
+                            Материалы и декор                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/help_center/materialy/">Материалы изготовления</a>
+            </div>
+                        <div class="item">
+                <a href="/help_center/varianty/">Варианты декорирования</a>
+            </div>
+                        <div class="item">
+                <a href="/help_center/Colour/">Цветовые решения</a>
+            </div>
+                        <div class="item">
+                <a href="/help_center/ral/">Таблица RAL</a>
+            </div>
+             
+        </div>
+                <div class="column">
+            <h3>
+                            <a href="/support/">Техподдержка</a>
+                            <!--<i class="fas fa-chevron-right mobile-only"></i>-->
+            </h3>
+                        <div class="item">
+                <a href="/kak-zakazat/">Как заказать?</a>
+            </div>
+                        <div class="item">
+                <a href="/support/sovety-po-montazhu/">Советы по монтажу</a>
+            </div>
+                        <div class="item">
+                <a href="/support/rekomendatsii-po-transportirovke/">Транспортировка</a>
+            </div>
+                        <div class="item">
+                <a href="/support/storage/">Упаковка и хранение</a>
+            </div>
+                        <div class="item">
+                <a href="/help_center/stati-i-obzory/">Полезные статьи и обзоры</a>
+            </div>
+             
+        </div>
+         
+    </div>
+</div>
+</div>
+
+<style>
+.supermenu_block {
+    font-family: 'PT Sans', sans-serif;
+    color: #493230;
+    font-size: 14px;
+}
+.supermenu_block a {
+    text-decoration: none;
+    line-height: 20px;
+}
+.supermenu_block h3 {
+    font-size: 17px;
+    font-weight: bold;
+    margin: 15px 0 25px;
+    color: #1d4264;
+}
+@media (max-width: 1300px) {
+    .supermenu_block {
+        font-size: 12px;
+        margin: 10px 0 15px;
+    }
+    .supermenu_block h3 {
+        font-size: 14px;
+    }
+    .supermenu_block a {
+        line-height: 16px;
+    }
+}
+.supermenu_table {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    padding:20px 0 0;
+}
+.supermenu_table .column {
+    padding:10px 30px;
+    min-width:250px;
+    max-width:300px;
+    background: #fff;
+    text-align: left;
+}
+@media (min-width: 1100px) {
+    .supermenu_table .column {
+        width:25%;
+        min-width:25%;
+        max-width:25%;
+    }
+}
+.supermenu_table .column .item {
+    margin:7px 0;
+}
+.supermenu_table .column:not(:last-child) {
+    border-right: solid 1px #ccc;
+}
+
+.header-product-nav > ul {
+    position: relative;
+}
+.header-product-nav > ul > li .supermenu_block {
+    position: absolute;
+    z-index: 100;
+    left: 0;
+    top: 35px;
+    padding: 1px 0;
+    width: 100%;
+    min-width: 100%;
+    text-align: left;
+    margin: 0;
+}
+@media (min-width: 1124px) {
+     .header-product-nav > ul > li .supermenu_block {
+         display: none;
+     }
+}
+@media (max-width: 1124px) {
+    .header-product-nav > ul > li .supermenu_block {
+        position: relative;
+        left: 0;
+        top: 0;
+        padding:0;
+        display: none;
+    }
+    .supermenu_table {
+        display: block;
+        padding:0;
+    }
+    .supermenu_table .column {
+        padding:10px 30px;
+        min-width:100%;
+        max-width:100%;
+    }
+    .supermenu_block h3 {
+        margin:0;
+        position:relative;
+    }
+    .supermenu_block h3 i {
+        position:absolute;
+        right:0;
+        top:0;
+    }
+    .supermenu_table .column .item {
+        margin:15px 0;
+    }
+}
+.header-product-nav > ul > li:nth-child(3) .supermenu_block .supermenu_table {
+    justify-content: center;
+}
+.header-product-nav > ul > li:nth-child(4) .supermenu_block .supermenu_table {
+    justify-content: flex-end;
+}
+@media (min-width: 1100px) {
+    .header-product-nav > ul > li:hover .supermenu_block {
+        display: block;
+    }
+}
+</style> 
+
+<script>
+$(document).ready(function(){
+    //if ($(window).width()>1100){
+        super_menu = {};
+        $(".supermenu_block").each(function(){
+            code = $(this).data('code');
+            super_menu[code] = $(this).html();
+        });
+        
+        $(".header-product-nav > ul > li").each(function(){
+            name = $(this).data('code');
+            if (super_menu[name].length>15){
+                $(this).find('a').after('<div class="supermenu_block">'+super_menu[name]+'</div>');
+            }
+        });
+    //}
+    if ($(window).width()<1100){
+        $(".header-product-nav > ul > li").click(function(){
+            child_menu = $(this).find(".supermenu_block");
+            if (child_menu.hasClass("opened")){
+                child_menu.removeClass("opened").hide();
+                $(this).find("i").addClass("fa-chevron-right").removeClass("fa-chevron-down");
+            }
+            else{
+                child_menu.addClass("opened").show();
+                $(this).find("i").removeClass("fa-chevron-right").addClass("fa-chevron-down");
+            }
+        });
+    }
+});
+</script></body>
+</html>

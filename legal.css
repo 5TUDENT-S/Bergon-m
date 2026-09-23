@@ -1,0 +1,36 @@
+.footer-legal{grid-column:1/-1;flex-basis:100%;border-top:1px solid #ffffff30;padding-top:24px;max-width:100%;font-size:12px;line-height:1.8}
+.footer-legal nav{display:flex;flex-wrap:wrap;gap:12px 26px;margin:18px 0}
+.footer-legal a,.contact-form small a,.consent-check a,.form-availability a{text-decoration:underline;text-underline-offset:4px}
+.contact-form fieldset{border:0;padding:0;margin:0;display:grid;gap:24px;min-width:0}
+.contact-form .consent-check{display:flex;flex-direction:row;align-items:flex-start;gap:12px;line-height:1.6}
+.footer .footer-legal p{color:#c3c5c1;font-size:12px}
+.contact-form .consent-check input{width:20px;height:20px;margin:3px 0 0;flex-shrink:0;accent-color:#ed571f}
+.contact-form .consent-check span{font-size:12px;letter-spacing:normal;text-transform:none}
+.contact-form fieldset button:disabled{cursor:not-allowed;opacity:.65;transform:none}
+.form-availability{padding:24px;margin:0;border:1px solid #cdcec6;border-top:3px solid #ed571f;background:#f5f4ee;line-height:1.6;font-size:14px;min-width:0}
+.availability-heading{display:flex;align-items:center;gap:10px;font-size:10px;font-weight:700;letter-spacing:.09em;color:#535951}
+.availability-mark{display:grid;place-items:center;width:25px;height:25px;background:#ed571f;color:#fff;font-size:18px;flex-shrink:0}
+.availability-hours{display:flex;flex-direction:column;gap:3px;margin:19px 0 17px}
+.availability-hours strong{font-size:clamp(24px,2.6vw,32px);line-height:1.2;letter-spacing:-.04em;color:#191c1d;white-space:nowrap;font-weight:600}
+.availability-hours>span{font-size:12px;color:#596057}
+.form-availability .availability-email{display:flex;align-items:center;justify-content:space-between;gap:10px;color:#191c1d;font-size:15px;font-weight:600;text-decoration:none;padding:10px 0;border-bottom:1px solid #babeb4;overflow-wrap:anywhere}
+.availability-email>span:last-child{color:#aa3b11;font-size:19px}
+.availability-privacy{margin-top:17px;font-size:11px;line-height:1.65;color:#555c54}
+.availability-privacy p{margin:0 0 5px}
+.availability-privacy a{color:#424a40;text-decoration-thickness:1px}
+.form-availability a:hover{color:#a8370e}
+.form-availability a:focus-visible{outline:2px solid #a8370e;outline-offset:5px}
+.visually-hidden{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.legal-page{margin:0;background:#eceae2;color:#191c1d;font:16px/1.8 Manrope,Arial,sans-serif}
+.legal-header,.legal-document,.legal-footer{width:min(940px,calc(100% - 40px));margin:auto}
+.legal-header{padding:28px 0;border-bottom:1px solid #c7c8c3;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.legal-header a,.legal-footer a{color:#191c1d;text-decoration:underline;text-underline-offset:4px}
+.legal-document{padding:42px 0 60px;overflow-wrap:anywhere}
+.legal-document h1{font:600 clamp(25px,4vw,42px)/1.25 Unbounded,Arial,sans-serif;margin:15px 0 28px}
+.legal-document h2{font-size:21px;line-height:1.4;margin:32px 0 12px}
+.legal-document a{color:#923314;text-underline-offset:3px}
+.legal-document dt{font-weight:700;padding-top:15px}
+.legal-document dd{margin:0;padding-bottom:15px;border-bottom:1px solid #d1d1cb}
+.legal-notice{padding:20px;background:#fff9ed;border-left:3px solid #ed571f}
+.legal-footer{padding:24px 0 40px;border-top:1px solid #c7c8c3;display:flex;flex-wrap:wrap;gap:16px;font-size:13px}
+@media(max-width:600px){.footer-legal nav{flex-direction:column;gap:12px}.legal-document{padding-top:24px}.form-availability{padding:16px}}
